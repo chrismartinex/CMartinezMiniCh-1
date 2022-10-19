@@ -1,12 +1,9 @@
-﻿// Chris Martinez
-//09/07/22 
-// Mini Challenge #1 "What is your name?"
-//Peer Review: Jessie - Code looks good and is working.
-// Console.Clear();
-// string name;
-// Console.Write("Buenos Dias!, What is your name:");
-// name = Console.ReadLine();
-// Console.WriteLine("Hola "  + name);
+//Chris Martinez
+//10/19/22
+// Mini Challenge #1 "What is your name?" Revamp
+// GitHub Challenge
+
+
 Console.Clear();
 bool playing = true;
 int wrong = 0;
