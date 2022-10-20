@@ -2,6 +2,7 @@
 //10/19/22
 // Mini Challenge #1 "What is your name?" Revamp
 // GitHub Challenge
+// first assignment with data validation included now.
 
 
 Console.Clear();
